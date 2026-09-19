@@ -33,7 +33,7 @@ Por ejemplo, para compilar matemagia.c:
 
 bash
 gcc matemagia.c -o matemagia
-Esto genera un ejecutable llamado matemagia (en Windows serÃ¡ matemagia.exe).
+Esto genera un ejecutable llamado matemagia (en Windows será matemagia.exe).
 
 3. Ejecuta el programa
 
