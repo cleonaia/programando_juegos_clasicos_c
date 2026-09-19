@@ -29,7 +29,7 @@ Windows: MinGW (gcc) o WSL con gcc.
 
 2. Compila el juego que quieras probar
 
-Por ejemplo, para compilar matemagia.c:
+  Por ejemplo, para compilar matemagia.c:
 
   bash
   gcc matemagia.c -o matemagia
@@ -37,51 +37,51 @@ Por ejemplo, para compilar matemagia.c:
 
 3. Ejecuta el programa
 
-- En macOS y Linux:
+  - En macOS y Linux:
 
-  bash
-  ./matemagia
+    bash
+    ./matemagia
 
-- En Windows (con MinGW o CMD/PowerShell):
+  - En Windows (con MinGW o CMD/PowerShell):
 
-  bash
-  matemagia.exe
+    bash
+    matemagia.exe
   
-o:
+  o:
 
-  bash
-  ./matemagia.exe
-  Pruebas / ejemplos
+    bash
+    ./matemagia.exe
+    Pruebas / ejemplos
 
-- Como prueba principal puedes usar:
+  - Como prueba principal puedes usar:
 
-  matemagia.c
+    matemagia.c
 
-- Para compilar y ejecutar esta prueba:
+  - Para compilar y ejecutar esta prueba:
 
-  bash
-  gcc matemagia.c -o matemagia
-  ./matemagia
+    bash
+    gcc matemagia.c -o matemagia
+    ./matemagia
 
-- Si en el futuro hay más archivos de prueba (por ejemplo, en una carpeta tests/ o con nombres tipo test_*.c), puedes listar los archivos disponibles:
+  - Si en el futuro hay más archivos de prueba (por ejemplo, en una carpeta tests/ o con nombres tipo test_*.c), puedes listar los archivos disponibles:
 
-  bash
-  ls
+    bash
+    ls
 
-- o, si hay subcarpetas:
+  - o, si hay subcarpetas:
 
-  bash
-  ls tests
+    bash
+    ls tests
 
-- Compilar y ejecutar cada prueba igual que antes:
+  - Compilar y ejecutar cada prueba igual que antes:
 
-  bash
-  gcc tests/test_algo.c -o test_algo
-  ./test_algo
+    bash
+    gcc tests/test_algo.c -o test_algo
+    ./test_algo
 
-- Si hay un Makefile, puedes usar:
+  - Si hay un Makefile, puedes usar:
 
-  bash
-  make
-  make run
+    bash
+    make
+    make run
 
