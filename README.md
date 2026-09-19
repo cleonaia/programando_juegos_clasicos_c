@@ -22,7 +22,7 @@ Windows: MinGW (gcc) o WSL con gcc.
 
 ## Como compilar y ejecutar los juegos
 
-1. Abre la terminal y sitÃºate en la carpeta del repositorio
+1. Abre la terminal y ves en la carpeta del repositorio
 
 bash
 cd ruta/al/repositorio
