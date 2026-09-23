@@ -9,6 +9,9 @@ Este repositorio trata de un aprendizaje adquirido del lenguaje de programación
 
 a través de la lógica de juegos clásicos.
 
+Para aprender irán en el siguiente orden:
+  - 
+  
 ## Requisitos previos
 
 Un compilador de C instalado:
