@@ -1,4 +1,4 @@
-# programando_juegos_clasicos_c
+# Aprende programando C a través de juegos clásicos 
 
 Este repositorio trata de un aprendizaje adquirido del lenguaje de programación C donde se obtiene conocimientos sobre
   - programación estructurada
@@ -7,4 +7,17 @@ Este repositorio trata de un aprendizaje adquirido del lenguaje de programación
   -  estructura simple de datos
   -  estructura de datos dinámicas
 
-a través de la lógica de juegos clásicos
+a través de la lógica de juegos clásicos.
+
+Para aprender irán en el siguiente orden:
+  - 
+  
+## Requisitos previos
+
+Un compilador de C instalado:
+
+macOS: Xcode Command Line Tools (clang viene incluido)
+
+Linux: gcc o clang (paquete build-essential en Debian/Ubuntu)
+
+Windows: MinGW (gcc) o WSL con gcc

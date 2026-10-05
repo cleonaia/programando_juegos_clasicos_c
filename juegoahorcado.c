@@ -114,4 +114,8 @@ int main()
     printf("\n La palabra era: %s\n", palabra);
 
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 04c884eac5a4b73d9f27d99a5503f656b01ddc99
